@@ -1,0 +1,12 @@
+input: .
+output: .retype
+url: # Add your website address here
+branding:
+  label: Docs
+  title: Pigeon City
+links:
+- text: This is a linkoid
+  link: https://retype.com/guides/getting-started/
+favicon: static/yakimeshi.png
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
